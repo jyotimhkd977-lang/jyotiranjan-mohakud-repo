@@ -102,7 +102,7 @@
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -114,37 +114,37 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
 
-</p>
+</p> -->
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</p>
+</p> -->
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -186,15 +186,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/jyotimhkd977">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jyoti.mhkd.977@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
